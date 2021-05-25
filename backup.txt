@@ -1,0 +1,14 @@
+    FitnessFrog ff1 = new FitnessFrog(); // Line 1
+    FitnessFrog ff2 = new FitnessFrog(); // Line 2
+    Coach c = new Coach(ff1, ff2); // Line 3
+    ff1.setPosition(0); // Line 4
+    ff2.setPosition(12); // Line 5
+    c.train(); // Line 6
+    Coach c = new Coach(ff1, ff2); // Line 7
+    ff1.setPosition(1); // Line 8
+    ff2.setPosition(12); // Line 9
+    c.train(); // Line 10
+    Coach c = new Coach(ff1, ff2); // Line 11
+    ff1.setPosition(2); // Line 12
+    ff2.setPosition(10); // Line 13
+    c.train(); // Line 14

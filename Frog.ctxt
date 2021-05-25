@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Frog()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Frog\ which\ initialises\ colour\ to\ green\r\n\ and\ position\ to\ 1.\r\n
+comment1.params=
+comment1.target=void\ home()
+comment1.text=\r\n\ Resets\ the\ receiver\ to\ its\ "home"\ position\ of\ 1.\r\n
+comment2.params=
+comment2.target=void\ left()
+comment2.text=\r\n\ Decrements\ the\ position\ of\ the\ receiver\ by\ 1.\r\n
+comment3.params=
+comment3.target=void\ right()
+comment3.text=\r\n\ Increments\ the\ position\ of\ the\ receiver\ by\ 1.\r\n
+comment4.params=
+comment4.target=void\ jump()
+comment4.text=\r\n\ Causes\ a\ change\ in\ an\ appropriate\ observing\ user\ interface.\r\n\ Icon\ representing\ the\ receiver\ performs\ a\ jump\ animation\r\n
+comment5.params=aFrog
+comment5.target=void\ sameStateAs(Frog)
+comment5.text=\r\n\ Sets\ the\ state\ of\ the\ receiver\ to\ the\ state\ of\ the\ argument.\r\n
+numComments=6

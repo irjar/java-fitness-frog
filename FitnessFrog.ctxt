@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FitnessFrog()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FitnessFrog.\r\n
+comment1.params=aValue
+comment1.target=void\ setTotalDistanceSprinted(int)
+comment1.text=\r\n\ Setter\ for\ totalDistanceSprinted.\r\n
+comment2.params=
+comment2.target=int\ getTotalDistanceSprinted()
+comment2.text=\r\n\ Getter\ for\ totalDistanceSprinted.\r\n
+comment3.params=
+comment3.target=void\ resetTotalDistanceSprinted()
+comment3.text=\r\n\ Sets\ the\ value\ of\ the\ totalDistanceSprinted\ variable\ to\ 0.\r\n\ Returns\ no\ value.\r\n
+comment4.params=
+comment4.target=int\ getSprintLength()
+comment4.text=\r\n\ Returns\ a\ random\ integer\ value\ specifying\ a\ sprint\ length\ \r\n\ between\ 2\ and\ 5\ inclusive.\r\n
+comment5.params=
+comment5.target=void\ sprint()
+comment5.text=\r\n\ Saves\ the\ colour\ of\ the\ receiver,\ then\ sets\ the\ colour\ of\ the\ receiver\ to\ red\ \r\n\ and\ gets\ a\ sprint\ length.\ Next\ enters\ a\ loop\ and\ on\ each\ iteration\ does\ the\ \r\n\ following\:\ first,\ checks\ if\ the\ receiver\ is\ on\ the\ last\ stone\ (numbered\ 11)\r\n\ in\ which\ case\ moves\ the\ receiver\ to\ the\ first\ stone\ (numbered\ 1),\ otherwise\r\n\ moves\ the\ receiver\ right;\ then\ increments\ the\ total\ distance\ sprinted.\ Upon\ \r\n\ exit\ from\ the\ loop,\ casues\ the\ receiver\ to\ jump\ once\ and\ then\ resets\ its\ colour.\r\n\ Returns\ no\ value.\r\n
+numComments=6
